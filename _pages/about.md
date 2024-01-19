@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: D238, Economics Building, Xiamen University, China
+
 
 profile:
   align: right
