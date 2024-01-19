@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: / 文家奕
+permalink: / 
 
 
 profile:
