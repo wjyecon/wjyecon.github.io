@@ -1,6 +1,6 @@
 ---
 layout: post
-date: May 3–4, 2024
+date: 2024-05-03
 inline: true
 related_posts: false
 ---
