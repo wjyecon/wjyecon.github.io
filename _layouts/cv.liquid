@@ -14,6 +14,9 @@ layout: default
             class="float-right"
             ><i class="fa-solid fa-file-pdf"></i
           ></a>
+
+    <a href="{{ page.cv_pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
+
         {% endif %}
       </h1>
       {% if page.description %}
