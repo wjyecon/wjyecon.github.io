@@ -33,6 +33,16 @@
       "highlights": [""]
     }
   ],
+  "interests": [
+    {
+      "name": "Physics",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "",
+        "",
+      ]
+    }
+  ], 
   "volunteer": [
     {
       "organization": "People's Climate March",
