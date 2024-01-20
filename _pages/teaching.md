@@ -7,6 +7,10 @@ nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Courses
+Econometrics, undergraduate level
+​Microeconometrics, undergraduate level
+Advanced Econometrics 1, Master/PHD level
 
-Organize your courses by years, topics, or universities, however you like!
+Best Instructor by Teaching Evaluation at WISE:
+2022-2023(*2), 2021-2022(*2), 2020-2021(*2), 2019-2020, 2018-2019
