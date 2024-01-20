@@ -5,7 +5,7 @@ title: CV
 nav: true
 nav_order: 2
 cv_pdf: example_pdf.pdf
-description: 
+description: Please see the pdf file.
 toc:
   sidebar: left
 ---
