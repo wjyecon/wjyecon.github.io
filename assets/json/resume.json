@@ -39,7 +39,7 @@
       "url": "",
       "area": "",
       "studyType": "  PhD in Economics",
-      "startDate": "2012",
+      "startDate": "2014",
       "endDate": "2018",
       "score": "",
       "courses": ""
@@ -48,11 +48,21 @@
       "institution": "CEMFI, Madrid, Spain",
       "url": "",
       "area": "",
-      "studyType": "  PhD in Economics",
+      "studyType": "  Master in Economics and Finance",
       "startDate": "2012",
-      "endDate": "2018",
+      "endDate": "2014",
       "score": "",
       "courses": ""
-    }    
+    },  
+    {
+      "institution": "Nankai University, Tianjin, China",
+      "url": "",
+      "area": "",
+      "studyType": "  Bachelor in Economics",
+      "startDate": "2008",
+      "endDate": "2012",
+      "score": "",
+      "courses": ""
+    }      
   ]
 }
