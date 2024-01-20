@@ -2,10 +2,9 @@
 layout: about
 title: about
 permalink: / 
-<<<<<<< HEAD
 subtitle: 文家奕
-=======
->>>>>>> f14656310d46162f1b8c06b54ef9567c3baa10a6
+
+
 
 
 profile:
