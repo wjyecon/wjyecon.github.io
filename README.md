@@ -1,4 +1,4 @@
-# al-folio - Wen
+# al-folio
 
 <div align="center">
 
